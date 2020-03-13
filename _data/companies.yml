@@ -543,6 +543,13 @@
   visitors: Restricted
   events: Restricted
   last_update: 2020-03-06
+  
+- name: DPDHL Group / DHL
+  wfh: Encouraged / Required (partially)
+  travel: Restricted
+  vistors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
 
 - name: Digit
   wfh: Required
